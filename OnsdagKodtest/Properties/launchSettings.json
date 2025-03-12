@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OnsdagKodtest": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
